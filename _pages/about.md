@@ -11,12 +11,12 @@ I am a data science lecturer at the Department of Clinical Epidemiology and Bios
 
 **Interested**: Uncertainty quantification. Network. Complex system. Dynamical system. Informed ML. Symbolic AI.
 
-[](#publications)Publications
+[](#publications) Publications
 ===
 
 [Google Scholar](https://scholar.google.com/citations?user=jr9upXUAAAAJ)
 
-[](#teaching)Teaching
+[](#teaching) Teaching
 ===
 
 *Ph.D. & M.Sc. in Data Science for Healthcare and Clinical Informatics*
@@ -31,7 +31,7 @@ I am a data science lecturer at the Department of Clinical Epidemiology and Bios
 - **Basic programming for medical physicists**: Python - [Materials](https://github.com/44REAM/RA-Medphys)
 - **Self study for medical physicists** - [Materials](https://github.com/AI-radiotherapy)
 
-[](#experience)Work Experience
+[](#experience) Work Experience
 ===
 
 - 2022 - Present: Lecturer
@@ -46,7 +46,7 @@ I am a data science lecturer at the Department of Clinical Epidemiology and Bios
 - 2018-2022: Research Assistant at BCI lab, Mahidol University
   - ECG classification - [Python version](https://github.com/44REAM/ECG-holter), [Julia version](https://github.com/44REAM/ECGJulia)
 
-[](#awards)Awards
+[](#awards) Awards
 ===
 
 - AI Thailand hackathon 2024 Honorable Mention
