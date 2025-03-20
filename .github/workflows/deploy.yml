@@ -8,6 +8,9 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions: # Add this section
+      pages: write      # to deploy to GitHub Pages
+      id-token: write   # to use OIDC (the fix!)
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
